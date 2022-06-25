@@ -8,6 +8,8 @@ Supports fallback settings (see examplae below)
 
 Documentation: https://pkg.go.dev/github.com/nickname76/locstrs
 
+*Please, **star** this repository, if you found this library useful.*
+
 ## Example usage
 
 ```Go
