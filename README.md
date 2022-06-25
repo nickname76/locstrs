@@ -6,6 +6,8 @@ Uses [text/template](https://pkg.go.dev/text/template) and [html/template](https
 
 Supports fallback settings (see examplae below)
 
+Documentation: https://pkg.go.dev/github.com/nickname76/locstrs
+
 ## Example usage
 
 ```Go
